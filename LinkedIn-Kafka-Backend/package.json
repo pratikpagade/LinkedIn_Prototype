@@ -23,7 +23,7 @@
     "max-listeners-exceeded-warning": "0.0.1",
     "mongo": "^0.1.0",
     "mongodb": "^2.2.31",
-    "mongoose": "^5.0.12",
+    "mongoose": "^5.7.5",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-auto-number": "^2.0.0",
     "mongoose-unique-validator": "^2.0.0",
