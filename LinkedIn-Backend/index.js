@@ -36,10 +36,10 @@ app.use(cors({ origin: "http://localhost:3000", credentials: true }));
 
 var con = mysql.createPool({
   connectionLimit: 100,
-  host: "linkedinteam1.c4redet1j4es.us-west-1.rds.amazonaws.com",
-  user: "linkedin",
-  password: "linkedin",
-  database: "linkedin"
+  host: "**",
+  user: "**",
+  password: "**",
+  database: "**"
 });
 
 //set up session variable
