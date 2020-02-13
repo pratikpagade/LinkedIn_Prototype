@@ -9,10 +9,6 @@
 Developed by a team of 6.
 
 
-## Application Link
-
-https://cmpe-273-linkedin.herokuapp.com
-
 ## Application Architecture Diagram
  
 ![linkedin_architecture](https://user-images.githubusercontent.com/42900784/53458218-0f19f280-39ea-11e9-8a00-84427caba05d.png)
